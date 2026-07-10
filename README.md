@@ -17,7 +17,7 @@ These projects form the foundation for a larger pan-tilt face-tracking robot (se
 | 03 | [Face Tracking (Offset + Smoothing)](./03-face-tracking-offset) | Calculates face position offset from frame center, maps to servo angles, applies exponential smoothing for stable tracking | ✅ Complete (software) |
 | 04 | Color/Object Tracking | HSV-based color masking and contour tracking | 🔜 In progress |
 | 05 | Motion Detection | Frame differencing-based motion/intruder detection | 🔜 In progress |
-| 06 | Shape/Contour Detection | Classical CV pipeline: blur → grayscale → Canny → dilation → contours | ✅ Complete |
+| 06 | [Shape/Contour Detection](./06-shape-contour-detection) | Classical CV pipeline: blur → grayscale → Canny → dilation → contours | ✅ Complete |
 
 ## Tech Stack
 - Python 3
