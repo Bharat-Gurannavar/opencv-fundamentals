@@ -12,7 +12,7 @@ These projects form the foundation for a larger pan-tilt face-tracking robot (se
 
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
-| 01 | [Document Scanner](./01-document-scanner) | Perspective warp-based document scanning from a live/still image | ✅ Complete |
+| 01 | Document Scanner | Perspective warp-based document scanning from a live/still image | 🔜 Planned |
 | 02 | [Face & Eye Detection](./02-face-eye-detection) | Haar Cascade-based face and eye detection with live webcam feed | ✅ Complete |
 | 03 | [Face Tracking (Offset + Smoothing)](./03-face-tracking-offset) | Calculates face position offset from frame center, maps to servo angles, applies exponential smoothing for stable tracking | ✅ Complete (software) |
 | 04 | Color/Object Tracking | HSV-based color masking and contour tracking | 🔜 In progress |
